@@ -3,6 +3,12 @@
 
 Find repositories with sample code and apps at https://github.com/dolbyio-samples
 
+## Getting Help
+
+Visit the [Dolby.io Community Discussions](https://github.com/dolbyio-samples/community/discussions) and feel welcome to ask any questions you have about Dolby.io.
+
+If you need more personalized assistance, reach out and [contact our team](https://dolby.io/contact).
+
 # About Dolby.io
 
 Using decades of Dolby's research in sight and sound technology, Dolby.io provides APIs to integrate real-time streaming, voice & video communications, and file-based media processing into your applications. [Sign up for a free account](https://dashboard.dolby.io/signup/) to get started building the next generation of immersive, interactive, and social apps.
